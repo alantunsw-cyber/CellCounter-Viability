@@ -1,5 +1,9 @@
 # CellCounter-Viability
 
+## Preview
+
+![UI Preview](screenshot.png)
+
 Interactive tool for live/dead cell annotation and viability analysis in microscopy images.
 
 ---
